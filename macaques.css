@@ -1,0 +1,81 @@
+.logo {
+    width: 400px
+}
+.body{
+    background: url("1126207.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+p {
+    color: white;
+}
+
+
+.center {
+    text-align: center;
+    font-weight: bold;
+}
+
+.denji {
+    height: 200px;
+    margin-left: 480px
+}
+
+footer  {
+    position: fixed;
+    text-align: center;
+    bottom:0;
+    width: 100%;
+
+}
+.rodape {
+    width: 300px;
+}
+.foto1 {
+    height: 255px;
+    border: 5px black solid;
+    display:inline-block;
+    vertical-align: top;
+}
+.foto2 {
+    position: absolute;
+    width:401px;
+    height:255px;
+    display: inline-block;
+    vertical-align: top;
+    border: 5px black solid;
+    left: 68.9%;
+
+
+
+
+}
+.Cabeçalho {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px
+} 
+.personagens {
+    width: 940px;
+}
+.logo {
+    width: 400px
+}
+nav a {
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+nav li {
+    display: inline-block;
+    padding: 15px;
+}
+nav {
+    position: absolute;
+    left: 920px;
+    bottom: 58px;
+}
+

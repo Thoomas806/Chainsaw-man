@@ -1,0 +1,29 @@
+
+
+#Genshin {
+    margin-left: 35%; width:450px;
+
+}
+#segundo {
+    color: red;
+
+}
+h1 {
+    text-align: center; color: rgb(37, 27, 27)
+}
+.principal {
+
+    background-color: lightgrey;
+}
+.secundario {
+    
+    background-color: rgba(128, 128, 128, 0.767);
+}
+.textoCentralizado {
+    text-align: center;
+    color: rgb(37, 27, 27); 
+    font-size: 20px;
+}
+.tituloSecundario {
+    text-align: center;
+}
